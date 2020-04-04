@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+You can also download a PDF version of my resume [here](https://tnanukem.github.io/files/resume.pdf).
+
 Education
 ======
 * Technician in Electronics, Instituto Federal de São Paulo, 2015
@@ -29,7 +31,7 @@ Work experience
   - Second best summer project of 2019.
   - **Used technologies**: Python (Numpy, Pandas), Heroku and PostgreSQL
  
- * September 2017 - Today: General Director | Head of Management | Head of Technology at Entrepreneurship League of São Carlos
+ * September 2017 - Today: General Director, Head of Management, Head of Technology at Entrepreneurship League of São Carlos
     - I've helped the reestablishment of the group after 2 years of inactivity and, with my partners, I've taken it to a spotlight in the entrepreunership ecosystem of São Carlos. Some of my contributions were:
     - 220% growth of the personal effective of the group.
     - Co-created two high impact projects.
