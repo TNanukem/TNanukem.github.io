@@ -11,49 +11,40 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Technician in Electronics, Instituto Federal de São Paulo, 2015
+* B.S. in Computer Engineering, University of São Paulo, 2020
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* July 2019 - Today: Data Scientist Intern at Big Data
+  - Modelling and data maintenance for a targeted recommendation project.
+  - Features estimation of clientes based on transaction history.
+  - **Used technologies**: Python (Numpy, Pandas, Matplotlib, Plotly, Sklearn, Scrapy, Selenium), PostgreSQL and AWS.
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* December 2018 - Febuary 2019: Summer Intern at Stone Payments
+  - Developed a routing system to improve the sales team productivity.
+  - Helped to develop a software of intelligence to the sales team.
+  - Profits estimation of over R$ 10 MM in 2019 results.
+  - Second best summer project of 2019.
+  - **Used technologies**: Python (Numpy, Pandas), Heroku and PostgreSQL
+ 
+ * September 2017 - Today: General Director | Head of Management | Head of Technology at Entrepreneurship League of São Carlos
+    - I've helped the reestablishment of the group after 2 years of inactivity and, with my partners, I've taken it to a spotlight in the entrepreunership ecosystem of São Carlos. Some of my contributions were:
+    - 220% growth of the personal effective of the group.
+    - Co-created two high impact projects.
+    - Group officialdom on the university.
+    - Created a technology and development team.
+
+# Certifications
+
+* Machine Learning - Coursera
+  * [Certificate](https://www.coursera.org/account/accomplishments/certificate/UNQ8EKZ2XEVP)
   
-Talks
+* Introduction to Probability and Data - Coursera
+  * [Certificate](https://www.coursera.org/account/accomplishments/certificate/UNQ8EKZ2XEVP)
+
+Languages
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Portuguese - Native
+* English - Advanced
