@@ -1,6 +1,6 @@
 ---
 title: "Extensible Platform for Cloud Scheduling Algorithm Comparison (EPCSAC)"
-excerpt: "EPCSAC is an online platform that allows researchers to compare cloud scheduling algorithms.<br/><img src='/images/epcsac_experiment_config.jpeg'>"
+excerpt: "EPCSAC is an online platform that allows researchers to compare cloud scheduling algorithms.<br/><img src='https://github.com/TNanukem/EPCSAC/blob/master/src/public/images/logo.png'>"
 collection: portfolio
 ---
 
